@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">Во время грозы:</string>
+    <string name="lec01">При сильном ливне</string>
+    <string name="lec11">При граде</string>
+    <string name="lec15">Во время ветра,урагана</string>
+</resources>
